@@ -26,7 +26,7 @@ It allows users to control various aspects of the computer interface such as mou
 
 ## Usage   
 
-[![](https://drive.google.com/file/d/1y3E0F5He3mmIZN096XvPHzhbB3FtV7cD/view?usp=sharing)](https://drive.google.com/file/d/1y3E0F5He3mmIZN096XvPHzhbB3FtV7cD/view?usp=sharing)
+Here is a short video with the different functions of the program: [Link here](https://drive.google.com/file/d/1y3E0F5He3mmIZN096XvPHzhbB3FtV7cD/view?usp=sharing)   
 
 ## Additional Notes   
 
